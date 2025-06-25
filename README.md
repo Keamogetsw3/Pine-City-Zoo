@@ -1,17 +1,9 @@
 # 🐾 Pine City Zoo Web App - Terminal Edition
 
-Welcome to the **Pine City Zoo** project. This beginner-friendly HTML and CSS web app will guide you through building a simple, mobile-style zoo website using only basic front-end technologies.
-
+Welcome to the **Pine City Zoo** APP
 ---
 
-## 📁 Project Structure
-
-The project is organized as follows:
-
-- `Pine City Zoo/` – Main project folder
-  - `images/` – Stores all image assets used in the site
-  - `index.html` – Home page HTML file
-  - `style.css` – CSS stylesheet for styling the app
+## 📁 Project Overview
 
 ---
 
