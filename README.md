@@ -1,4 +1,4 @@
-# 🐾 Pine City Zoo Web App - Terminal Edition
+# 🐾 Pine City Zoo Web App 
 
 Welcome to the **Pine City Zoo** APP
 ---
